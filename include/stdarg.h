@@ -1,5 +1,5 @@
-#ifndef MINI_STDARG_H
-#define MINI_STDARG_H
+#ifndef STDARG_H
+#define STDARG_H
 
 #ifdef __cplusplus
 extern "C" {
